@@ -30,8 +30,7 @@ Welcome to my GitHub profile!
 
 
 ⚡ Fun fact:
-- When I'm not coding, I enjoy hiking the beautiful trails of Utah and capturing the landscapes through photography.
-
+- When I'm not coding, I enjoy playing/watching basketball and football as well as spending time outdoors. 
 ---
 
 ### Languages and Tools:
