@@ -42,18 +42,16 @@ Welcome to my GitHub profile!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<-- Add or remove languages and tools as you see fit -->
 
 ### My GitHub Stats:
 ![Brock's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbrock007&show_icons=true&theme=radical)
 
-<-- You can customize your GitHub Stats here: https://github.com/anuraghazra/github-readme-stats -->
 
 ### Let's Connect!
 <a href="https://www.linkedin.com/in/brock-terry-21a743295/"><img src="https://img.shields.io/badge/-Brock_Terry-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<-- Add or remove social links as you see fit -->
 
 Thank you for stopping by, and I hope you find my repositories enlightening!
 
