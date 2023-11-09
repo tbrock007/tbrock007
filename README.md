@@ -26,14 +26,11 @@ Welcome to my GitHub profile!
 - Tips on balancing university life with a career in tech.
 
 📫 How to reach me:
-- Feel free to drop me an email at [brock.terry@uvu.edu](mailto:brock.terry@uvu.edu) for any collaborations or opportunities.
+- Feel free to drop me an email at [brockterry07@yahoo.com](mailto:brockterry07@yahoo.com) for any collaborations or opportunities.
 
-😄 Pronouns: He/Him
 
 ⚡ Fun fact:
 - When I'm not coding, I enjoy hiking the beautiful trails of Utah and capturing the landscapes through photography.
-
-🌐 Visit my portfolio for a comprehensive look at my work and accomplishments: [www.brockterry.com](#) (Link to your professional portfolio if you have one)
 
 ---
 
