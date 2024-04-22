@@ -31,7 +31,7 @@ I’m excited to collaborate on:
 Drop me an email at [brockterry07@yahoo.com](mailto:brockterry07@yahoo.com) — let’s connect!
 
 ## ⚡ Fun Fact
-When not coding, I love indulging in basketball and football, and embracing the great outdoors.
+When not coding, I love playing basketball and football, and embracing the great outdoors.
 
 ---
 
