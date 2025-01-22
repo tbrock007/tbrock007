@@ -7,18 +7,20 @@ I recently graduated from Utah Valley University with a Bachelor’s in Software
 
 ## 🔭 Current Focus
 I am actively engaged in:
-- **Developing robust web and mobile applications using modern frameworks and technologies like React, Express, and MySQL.
-- **Contributing to open-source projects**, with an emphasis on collaboration and innovation.
+- Developing robust web and mobile applications using modern frameworks and technologies like React, Express, and MySQL.
+- Contributing to open-source projects, with an emphasis on collaboration and innovation.
 
 ## 🌱 Ongoing Learning
-- **Advanced software engineering concepts, including microservices architecture and cloud computing.
-- **Emerging technologies, such as AI/ML and data-driven development.
+- Advanced software engineering concepts, including microservices architecture and cloud computing.
+- Emerging technologies, such as AI/ML and data-driven development.
 
 ## 📈 My GitHub Stats
 ![Brock's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbrock007&show_icons=true&theme=radical)
 
-## 📫 Contact Me
-Drop me an email at [brockterry07@yahoo.com](mailto:brockterry07@yahoo.com) — let’s connect!
+## 📫 Contact Me  
+Drop me an email at [brockterry07@yahoo.com](mailto:brockterry07@yahoo.com) — let’s connect!  
+📱 Phone: 801-888-6070  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brock-terry-21a743295/)  
 
 ## ⚡ Fun Fact
 When not coding, I love playing basketball and football, and embracing the great outdoors.
