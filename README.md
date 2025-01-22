@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate Software Developer with a dedication to creating impactful and innovative solutions.
 
 ## 🎓 About Me
-I recently graduated from Utah Valley University with a Bachelor’s in Software Development. My academic and professional journey has been focused on honing my skills to deliver efficient and scalable software solutions.
+I graduated from Utah Valley University with a Bachelor’s in Software Development. My academic and professional journey has been focused on honing my skills to deliver efficient and scalable software solutions.
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-Brock_Terry-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brock-terry-21a743295/)
