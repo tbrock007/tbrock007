@@ -49,4 +49,4 @@ Tools
 
 ---
 
-Thank you for visiting my profile. I hope you find my repositories informative and inspiring!
+Thank you for visiting my profile!
