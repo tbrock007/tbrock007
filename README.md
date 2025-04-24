@@ -6,10 +6,14 @@ Welcome to my GitHub profile! I’m a passionate Software Developer with a dedic
 I graduated from Utah Valley University with a Bachelor’s in Software Development. My academic and professional journey has been focused on honing my skills to deliver efficient and scalable software solutions.
 
 ## 🤝 Connect With Me
+<a href="https://www.linkedin.com/in/brock-terry-21a743295/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brock-terry-21a743295/)
-
-Member of [cashscout](https://github.com/cashscout)
+## Member of cashscout
+<a href="https://github.com/cashscout" style="vertical-align:middle;">
+  <img src="https://github.com/cashscout.png?size=40" alt="cashscout" title="cashscout" />
+</a>
 
 ## 🔭 Current Focus
 I am actively engaged in:
