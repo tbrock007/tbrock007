@@ -32,7 +32,7 @@ Drop me an email at [brockterry07@yahoo.com](mailto:brockterry07@yahoo.com) — 
 📱 Phone: 801-888-6070  
 
 ## ⚡ Fun Fact
-When not coding, I love playing basketball and football, and embracing the great outdoors.
+When not coding I love playing basketball and football, golfing, and embracing the great outdoors.
 
 ---
 
