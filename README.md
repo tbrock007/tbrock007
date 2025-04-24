@@ -7,7 +7,7 @@ I graduated from Utah Valley University with a Bachelor’s in Software Developm
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-Brock_Terry-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brock-terry-21a743295/)
-Member of [MyOrg](https://github.com/cashscout)
+Member of [cashscout](https://github.com/cashscout)
 
 ## 🔭 Current Focus
 I am actively engaged in:
